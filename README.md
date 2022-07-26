@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arindam Ghosh(@arindam1473)
-- 👀 I’m working as Data Analyst in Amdocs. 
+- 👀 I’m working as Data Analyst in Infosys. 
 - 🌱 I’m currently learning Machine learning, Model, scrapping data, deploy models in colud(Azure,GCP)
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 write me at ''
