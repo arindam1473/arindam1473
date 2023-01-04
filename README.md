@@ -2,7 +2,7 @@
 - 👀 I’m working as Data Analyst in Infosys. 
 - 🌱 I’m currently learning Machine learning, Model, scrapping data, deploy models in colud(Azure,GCP)
 - 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 write me at ''
+- 📫 write me at 'arindam1473@gmail.com'
 
 <!---
 arindam1473/arindam1473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
